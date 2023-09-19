@@ -1,4 +1,4 @@
-# Github Docs Example
+# Writing Good Documentation
 
 ## **Step 1 - Using Codeblocks.**
 
