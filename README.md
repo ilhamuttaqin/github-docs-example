@@ -55,6 +55,21 @@ your_script.rb:1:in `<main>': undefined local variable or method `some_value' fo
 > Here is an example of using codeblocks for an error that appear in the console.
 
 
+## Step 2 - How to take screenshots
+A screenshot is when you capture a part of your screen from your device. 
+This is not to be confused with take a photo with your phone. 
+
+**DON'T DO THIS**
+
+<img width="200px" src="https://github.com/ilhamuttaqin/github-docs-example/assets/109239266/01f86fac-10b8-4767-8d7b-1331ba944035"/> 
+
+This is what screenshot from your device should look like.
+
+**DO THIS INSTEAD**
+
+<img width="200px" src="https://github.com/ilhamuttaqin/github-docs-example/assets/109239266/450d0353-c709-41ee-81b6-2bb455316352"/> 
+
+
 ## Step 3 - Use Github Flavored Markdown Track List
 
 - [x] Finish Step 1
